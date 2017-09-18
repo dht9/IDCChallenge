@@ -1,4 +1,4 @@
-# IDCChallenge
+# Integrated Design Challenge
 
 Project members: David Tran, Michael Kim, Juan Philippe.
 
